@@ -1,0 +1,23 @@
+{
+    "name": "com.duiytu.prepare",
+    "displayName": "_5_21 DuIytu Prepare",
+    "version": "0.1.0",
+    "unity": "2022.2",
+    "description": "DuIytu Prepare",
+    "keywords": [],
+    "category": "",
+    "dependencies": {},
+    "author": {
+        "name": "ApprenticeGC",
+        "email": "apprentice@giantcroissant.com",
+        "url": "https://giantcroissant.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GiantCroissant-Lunar/duiytu.git",
+        "directory": "duiytu-prepare"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@GiantCroissant-Lunar"
+    }
+}
